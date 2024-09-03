@@ -1,0 +1,1 @@
+This project is dedicated to extracting and organizing comprehensive data about country heads and key government officials across various nations. The data was gathered using web scraping techniques in Python and has been structured to ensure accuracy and consistency. 
